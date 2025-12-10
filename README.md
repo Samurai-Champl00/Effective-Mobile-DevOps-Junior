@@ -14,8 +14,8 @@
 
 Установка
 
-git clone https://github.com/Samurai-Champ100/test.git
-sudo ./install.sh
+- git clone https://github.com/Samurai-Champ100/test.git
+- sudo ./install.sh
 
 
 P.s. 
