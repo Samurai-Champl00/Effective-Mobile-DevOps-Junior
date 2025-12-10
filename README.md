@@ -14,7 +14,7 @@
 
 Установка
 
-- git clone https://github.com/Samurai-Champ100/test.git
+- git clone https://github.com/Samurai-Champ100/Effective-Mobile-DevOps-Junior
 - sudo ./install.sh
 
 
